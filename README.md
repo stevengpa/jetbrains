@@ -15,6 +15,7 @@
 | ⇧⌘J, I              | Page Up                     | Native   |
 | ⇧⌘J, K              | Page Down                   | Native   |
 | ⇧⌘K, A              | Go to Symbols               | Native   |
+| ⇧⌘K, Q              | Go to File                  | Native   |
 | ⌘E                  | Recent Files                | Native   |
 | **BOOKMARKS**       |                             |          |
 | ⇧⌘J, H              | Toggle Bookmark             | Native   |
