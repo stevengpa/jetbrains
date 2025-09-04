@@ -1,0 +1,2 @@
+# jetbrains
+My IDE config
